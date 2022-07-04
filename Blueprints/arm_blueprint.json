@@ -1,0 +1,41 @@
+{
+    "id": "blueprint_PrinTech_arm",
+    "name": "Idea: Arm",
+    "group": "Building",
+    "icon": "bruh.png",
+    "stackText": "Nutting",
+    "subprints": [
+        {
+            "requiredCards": "villager|militia|swordsman|explorer|dog, PrinTech_steel, PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood",
+            "cardsToRemove": "PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood, wood",
+            "resultCard": "PrinTech_arm",
+            "extraResultCards": "",
+            "time": 120,
+            "status": "Creating something expensive, but useful (Speed: 1)"
+        },
+        {
+            "requiredCards": "villager|militia|swordsman|explorer|dog, villager|militia|swordsman|explorer|dog, PrinTech_steel, PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood",
+            "cardsToRemove": "PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood, wood",
+            "resultCard": "PrinTech_arm",
+            "extraResultCards": "",
+            "time": 60,
+            "status": "Creating something expensive, but useful (Speed: 2)"
+        },
+        {
+            "requiredCards": "villager|militia|swordsman|explorer|dog, villager|militia|swordsman|explorer|dog, villager|militia|swordsman|explorer|dog, PrinTech_steel, PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood",
+            "cardsToRemove": "PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood, wood",
+            "resultCard": "PrinTech_arm",
+            "extraResultCards": "",
+            "time": 40,
+            "status": "Creating something expensive, but useful (Speed: 3)"
+        },
+        {
+            "requiredCards": "villager|militia|swordsman|explorer|dog, villager|militia|swordsman|explorer|dog, villager|militia|swordsman|explorer|dog, villager|militia|swordsman|explorer|dog, PrinTech_steel, PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood",
+            "cardsToRemove": "PrinTech_steel, PrinTech_steel, iron_bar, iron_bar, brick, brick, brick, wood, wood",
+            "resultCard": "PrinTech_arm",
+            "extraResultCards": "",
+            "time": 30,
+            "status": "Creating something expensive, but useful (Speed: 4)"
+        }
+    ]
+}

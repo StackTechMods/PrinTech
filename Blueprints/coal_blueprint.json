@@ -1,0 +1,17 @@
+﻿{
+    "id": "blueprint_PrinTech_coal",
+    "name": "Idea: Coal",
+    "group": "Resources",
+    "icon": "bruh.png",
+    "stackText": "Making coal",
+    "subprints": [
+        {
+            "requiredCards": "villager|militia|swordsman|explorer|dog, wood, stick, stick",
+            "cardsToRemove": "wood, stick, stick",
+            "resultCard": "PrinTech_coal",
+            "extraResultCards": "",
+            "time": 10,
+            "status": "Just making some firewood"
+        }
+    ]
+}

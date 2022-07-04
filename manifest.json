@@ -1,0 +1,9 @@
+{
+    "id": "PrinTech",
+    "name": "An automation mod",
+    "repo": "redstonerti/PrinTech",
+    "version": "0.0.1",
+    "developer": "YourName",
+    "description": "Mod template",
+    "dependencies": {}
+}

@@ -1,0 +1,8 @@
+{
+    "id": "PrinTech_business_man",
+    "name": "Business Man",
+    "description": "An incredibly productive individual",
+    "value": 10,
+    "type": "Humans",
+    "icon": "business_man.png"
+}

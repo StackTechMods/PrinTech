@@ -1,0 +1,9 @@
+{
+    "id": "PrinTech_arm",
+    "name": "Arm",
+    "description": "Useful for those tedious tasks that get in the way of speedy progress :)",
+    "value": 50,
+    "type": "Structures",
+    "icon": "arm.png",
+    "cardDataScript": "PrinTech.Arm"
+}

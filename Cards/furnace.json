@@ -1,0 +1,9 @@
+{
+    "id": "PrinTech_furnace",
+    "name": "Furnace",
+    "description": "Cooks people",
+    "value": 5,
+    "type": "Structures",
+    "icon": "furnace.png",
+    "cardDataScript": "PrinTech.Furnace"
+}

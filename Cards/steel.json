@@ -1,0 +1,8 @@
+﻿{
+    "id": "PrinTech_steel",
+    "name": "Steel",
+    "description": "It's stronger than iron and your parent's marriage",
+    "value": 12,
+    "type": "Resources",
+    "icon": "steel.png"
+}

@@ -1,0 +1,8 @@
+﻿{
+    "id": "PrinTech_coal",
+    "name": "Coal",
+    "description": "Good quality fuel",
+    "value": 1,
+    "type": "Resources",
+    "icon": "coal.png"
+}

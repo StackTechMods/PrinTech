@@ -1,0 +1,17 @@
+{
+    "id": "blueprint_PrinTech_furnace",
+    "name": "Idea: Furnace",
+    "group": "Building",
+    "icon": "bruh.png",
+    "stackText": "Proceeding with a unique building",
+    "subprints": [
+        {
+            "requiredCards": "villager|militia|swordsman|explorer|dog, iron_bar, iron_bar, stone, stone, stone",
+            "cardsToRemove": "iron_bar, iron_bar, stone, stone, stone",
+            "resultCard": "PrinTech_furnace",
+            "extraResultCards": "",
+            "time": 30,
+            "status": "Building a furnace"
+        }
+    ]
+}

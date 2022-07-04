@@ -1,0 +1,6 @@
+bin/
+obj/
+Boosterpacks/
+Dumped Assets/
+Assembly-CSharp.dll
+BerryLoader.dll
